@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My name is Fauziah Gina Arliani. 
+## My name is Fauziah Gina Arliani. I'm a Geophysicist'23 Gadjah Mada University. Now, i was learning github and vscode. So, let's learned together with me. 
 
 <!--
 **FauziahGina/FauziahGina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
